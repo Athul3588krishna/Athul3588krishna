@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Athul Krishna
 
-### 🎓 MCA Student | 💻 MERN Stack Developer | 📱 Desktop Software Developer | 🤖 AI Enthusiast
+### 🎓 MCA Student | 💻 MERN Stack Developer | 🖥️ Electron Desktop Developer | 🤖 AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Android+Application+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Electron+Desktop+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-world+Software;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -14,21 +14,25 @@
 
 - 🎓 MCA Student
 - 💻 Full Stack MERN Developer
-- 📱 Learning Android Application Development
-- 🤖 Exploring Artificial Intelligence
-- 🌐 Passionate about Web Technologies
-- 🚀 Love Building Real-world Projects
+- 🖥️ Desktop Application Developer using Electron.js
+- 🤖 AI & Machine Learning Enthusiast
+- 👁️ Interested in Computer Vision
+- 📊 Passionate about Predictive Analytics
+- 🚀 Love Building Real-world Applications
 
 ---
 
 # 🚀 Current Focus
 
-- 📱 Android Development
 - ⚛️ React.js
 - 🌿 Node.js & Express.js
 - 🍃 MongoDB
-- 🤖 AI Applications
-- 🗄️ SQLite
+- 🖥️ Electron.js
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 📈 Predictive Analytics
 
 ---
 
@@ -37,9 +41,7 @@
 ## Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,c,cpp"/>
-
+<img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp,html,css"/>
 </p>
 
 ---
@@ -47,9 +49,7 @@
 ## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite"/>
-
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind"/>
 </p>
 
 ---
@@ -57,19 +57,35 @@
 ## Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
 </p>
+
+---
+
+## Desktop Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=electron"/>
+</p>
+
+---
+
+## AI / Machine Learning
+
+- Ultralytics YOLOv11
+- OpenCV
+- TensorFlow
+- Scikit-learn
+- LightGBM
+- Meta Prophet
+- Pandas
 
 ---
 
 ## Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 </p>
 
 ---
@@ -77,61 +93,138 @@
 ## Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 </p>
 
 ---
 
-# 📱 Android Lab
+# 💼 Featured Projects
 
-Currently Learning
+## 🚖 Ey Auto
 
-- Activities
-- Layouts
-- Intents
-- Shared Preferences
-- ListView
-- Spinner
-- Fragments
-- Navigation Drawer
+A MERN-based Auto Rickshaw Booking Platform with real-time booking and tracking.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Socket.io
+
+---
+
+## 🛒 Flipazon
+
+A full-stack MERN E-commerce platform.
+
+**Features**
+
+- User Authentication
+- Product Management
+- Shopping Cart
+- Order Management
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+## 🖥️ Electron POS
+
+A cross-platform Desktop Point of Sale (POS) application.
+
+**Features**
+
+- Product Management
+- Billing System
+- Invoice Generation
+- Sales Reports
+
+**Tech Stack**
+
+- Electron.js
+- JavaScript
 - SQLite
 
 ---
 
-# 💼 Projects
+## 🔥 AI Burning & Micro-Dumping Spot Detection
 
-## 🚖 Ey Auto
+An AI-powered environmental monitoring system that detects illegal waste dumping and plastic burning using CCTV and vehicle dashcam footage.
 
-Auto Rickshaw Booking System
+**Features**
 
-Technology
+- Illegal Dump Detection
+- Smoke & Fire Detection
+- Object Detection using YOLOv11
+- Inspector Dashboard
+- Event Logging
 
-- React
-- Node.js
-- Express
-- MongoDB
-- Socket.io
+**Tech Stack**
 
-Features
-
-- Authentication
-- Driver Dashboard
-- Passenger Dashboard
-- Live Tracking
-- Booking System
+- Python
+- YOLOv11
+- OpenCV
+- SQLite
+- Streamlit
 
 ---
 
-## 📱 Android Applications
+## 🩸 AI Blood Bank Demand & Critical Shortage Predictor
 
-- Login Form
-- Calculator
-- Registration App
-- SQLite CRUD
-- Navigation Drawer
-- Shared Preferences
+An AI-powered predictive analytics system that forecasts blood demand and identifies critical shortages before emergencies.
+
+**Features**
+
+- Blood Demand Forecasting
+- Inventory Prediction
+- Emergency Alerts
+- Interactive Dashboard
+
+**Tech Stack**
+
+- Python
+- Pandas
+- LightGBM
+- Meta Prophet
+- Streamlit
+
+---
+
+## 💧 AI Groundwater Contamination & Coliform Risk Predictor
+
+An AI-based system that predicts bacterial contamination risk in open well water using environmental and weather-related parameters.
+
+**Features**
+
+- Water Quality Risk Prediction
+- Rainfall Analysis
+- Soil-based Risk Assessment
+- AI Prediction Dashboard
+
+**Tech Stack**
+
+- Python
+- TensorFlow
+- Scikit-learn
+- Pandas
+- Streamlit
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React.js
+- Electron.js
+- Deep Learning
+- Computer Vision
+- AI System Design
+- Software Architecture
 
 ---
 
@@ -165,11 +258,11 @@ Features
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:YOURMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -179,14 +272,12 @@ Features
 
 # 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> **"Turning ideas into intelligent software that solves real-world problems."**
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for Visiting ⭐
-
-<img src="https://komarev.com/ghpvc/?username=Athul3588krishna&style=for-the-badge&color=blue"/>
 
 </div>
