@@ -228,6 +228,10 @@ An AI-based system that predicts bacterial contamination risk in open well water
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Athul3588krishna/Athul3588krishna/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 # 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Athul3588krishna&show_icons=true&theme=tokyonight&hide_border=true)
