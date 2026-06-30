@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Athul Krishna
 
-### 🎓 MCA Student | 💻 MERN Stack Developer | 📱 Android Developer | 🤖 AI Enthusiast
+### 🎓 MCA Student | 💻 MERN Stack Developer | 📱 Desktop Software Developer | 🤖 AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Android+Application+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
